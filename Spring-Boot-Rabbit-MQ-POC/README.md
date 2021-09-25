@@ -1,0 +1,3 @@
+# POC
+
+Rabbit-MQ POC
